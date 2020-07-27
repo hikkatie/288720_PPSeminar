@@ -78,7 +78,7 @@ plt.xticks(y_pos, bars)
 plt.xlabel('Skladniki glowne (PC)', fontsize=12, color='black') 
 plt.ylabel('Procentowa wyjasniona wariancja', fontsize=12, color='black') 
 plt.title('Wariancja wyjasniona dla roznych skladnikow glownych (Principal Components)', fontsize=16, color='black') 
-
+plt.show()
 
 print ("Zadanie wykonane ")
 
